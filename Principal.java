@@ -6,5 +6,8 @@ public class Principal{
         alumno.setNombre("Jorge Matias");
         System.out.println(alumno.getNombre());
         alumno.setNombre("Jorge Matias");alumno.setNombre("Jorge Matias");alumno.setNombre("Jorge Matias");alumno.setNombre("Jorge Matias");
+    
+
+        alumno.saludar("Matias");
     }
 }
