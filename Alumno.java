@@ -28,5 +28,8 @@ public class Alumno {
         this.nombre = nombre;
     }
     
+   public void saludar(String nombre){
+        System.out.println("Hola soy " + nombre);
+   }
     
 }
